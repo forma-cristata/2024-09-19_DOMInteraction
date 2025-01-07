@@ -1,6 +1,6 @@
 # Unit Converter
 
-A simple and elegant unit conversion tool built with JavaScript.
+A simple unit conversion tool built with JavaScript.
 
 ## Features
 
